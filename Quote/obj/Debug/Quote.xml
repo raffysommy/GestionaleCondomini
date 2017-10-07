@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quote
+</name>
+</assembly>
+<members>
+<member name="P:Quote.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:Quote.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="T:Quote.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member><member name="T:Quote.NewDataSet.CondominiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Spese_EffettiveDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Spese_PreventivateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_MillesimaleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.MesiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.AnniDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_Millesimale2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.OrdinarieAnnoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.ModoPagamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.QuoteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.StraordinarieAnnoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_Millesimale1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Quote.NewDataSet.CondominiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Spese_EffettiveRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Spese_PreventivateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_MillesimaleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.MesiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.AnniRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_Millesimale2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.OrdinarieAnnoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.ModoPagamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.QuoteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.StraordinarieAnnoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_Millesimale1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Quote.NewDataSet.CondominiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.Spese_EffettiveRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.Spese_PreventivateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_MillesimaleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.MesiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.AnniRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_Millesimale2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.OrdinarieAnnoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.ModoPagamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.QuoteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.StraordinarieAnnoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet.Tabella_Millesimale1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Quote.NewDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

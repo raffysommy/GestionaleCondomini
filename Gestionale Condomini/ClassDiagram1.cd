@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gestionale_Condomini.AboutBox1">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAASAAAAAAAACEAABCgAAAAAIAAACACAAQAAA=</HashCode>
+      <FileName>AboutBox1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestionale_Condomini.frmMain">
+    <Position X="2.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>xQAULZpCACCCACFABmGEAEoCwsATQQhCeCiBAwCAQDY=</HashCode>
+      <FileName>frmMain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestionale_Condomini.LoginForm1">
+    <Position X="6.25" Y="12.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAUCAAAAAAAACAAAAiAACAAgAACBCBBAAAAAA=</HashCode>
+      <FileName>LoginForm1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestionale_Condomini.NewDataSet">
+    <Position X="6.25" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="Gestionale_Condomini.NewDataSet.QuoteDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.MesiDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.Spese_EffettiveRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.StraordinarieAnnoRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Spese_PreventivateDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.StraordinarieAnnoRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Spese_PreventivateRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.OrdinarieAnnoRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.MesiRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.OrdinarieAnnoRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.OrdinarieAnnoRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Spese_EffettiveDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale1DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale1RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.ModoPagamentoDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.OrdinarieAnnoDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.ModoPagamentoRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.Tabella_MillesimaleRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale2RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.StraordinarieAnnoDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.AnniDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale1Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Spese_PreventivateRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Spese_EffettiveRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_MillesimaleRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.AnniRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.CondominiRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale1RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.Spese_EffettiveRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.MesiRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.ModoPagamentoRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.CondominiRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.CondominiRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale2Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_MillesimaleRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.ModoPagamentoRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.QuoteRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.MesiRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale2DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.AnniRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.CondominiDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.Spese_PreventivateRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_MillesimaleDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.Tabella_Millesimale2RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.StraordinarieAnnoRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Gestionale_Condomini.NewDataSet.QuoteRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Gestionale_Condomini.NewDataSet.QuoteRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Gestionale_Condomini.NewDataSet.AnniRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BQQkQGgiAwAAAgpABgAAYQAAgAgC4ByBAAABUQEjRJA=</HashCode>
+      <FileName>NewDataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestionale_Condomini.SplashScreen1">
+    <Position X="0.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IIgAAAABACAAAAAAAACAEAACAAAACAAAAgAAAAAAAAA=</HashCode>
+      <FileName>SplashScreen1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestionale_Condomini.My.MyApplication">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestionale_Condomini.My.MySettings">
+    <Position X="0.5" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAQAABAAIAAADAABAAAAAAAAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Gestionale_Condomini.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Gestionale_Condomini.My.Resources.Resources">
+    <Position X="0.5" Y="13" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAABEAAAEQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

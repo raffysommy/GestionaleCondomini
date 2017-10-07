@@ -1,0 +1,15 @@
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.Gestionale_Condomini.frmCondomini.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.Gestionale_Condomini.frmTabella_Millesimale.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.insCondomini.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.Resources.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.vbproj.GenerateResource.Cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\bin\Debug\Anagrafica.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\bin\Debug\Anagrafica.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\bin\Debug\Anagrafica.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\bin\Debug\Autenticazione.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\bin\Debug\Autenticazione.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\bin\Debug\Autenticazione.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Anagrafica\obj\Debug\Anagrafica.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2013Limited\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\Anagrafica\Anagrafica.vbproj">
+			<Name>Anagrafica</Name>
+			<Project>{E61FB9DF-4F73-4212-B04B-749601A293A3}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Autenticazione\Autenticazione.vbproj">
+			<Name>Autenticazione</Name>
+			<Project>{EFAE312F-0B7A-44A5-9F49-2786F2273F35}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Gestionale Condomini\Gestionale Condomini.vbproj">
+			<Name>Gestionale Condomini</Name>
+			<Project>{A3F0FF63-DF43-4690-AB1F-ADAFED0DB218}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Opzioni\Opzioni.vbproj">
+			<Name>Opzioni</Name>
+			<Project>{31CF0DCB-98C8-44E8-AEDB-ED2705C9BC34}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Quote\Quote.vbproj">
+			<Name>Quote</Name>
+			<Project>{51A009C9-CF11-42CC-8FBE-C7269C2146CB}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Spese\Spese.vbproj">
+			<Name>Spese</Name>
+			<Project>{236DD06E-FAD1-468D-94E3-BDEE63C9AB12}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Anagrafica
+</name>
+</assembly>
+<members>
+<member name="P:Anagrafica.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:Anagrafica.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="T:Anagrafica.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.CondominiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Spese_EffettiveDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Spese_PreventivateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_MillesimaleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.MesiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.AnniDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_Millesimale2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.OrdinarieAnnoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.ModoPagamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.QuoteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.StraordinarieAnnoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_Millesimale1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.CondominiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Spese_EffettiveRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Spese_PreventivateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_MillesimaleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.MesiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.AnniRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_Millesimale2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.OrdinarieAnnoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.ModoPagamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.QuoteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.StraordinarieAnnoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_Millesimale1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.CondominiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Spese_EffettiveRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Spese_PreventivateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_MillesimaleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.MesiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.AnniRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_Millesimale2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.OrdinarieAnnoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.ModoPagamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.QuoteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.StraordinarieAnnoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet.Tabella_Millesimale1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Anagrafica.NewDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

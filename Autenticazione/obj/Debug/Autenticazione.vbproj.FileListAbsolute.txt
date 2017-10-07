@@ -1,0 +1,8 @@
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\bin\Debug\Autenticazione.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\bin\Debug\Autenticazione.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\bin\Debug\Autenticazione.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\obj\Debug\Autenticazione.Resources.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\obj\Debug\Autenticazione.vbproj.GenerateResource.Cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\obj\Debug\Autenticazione.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\obj\Debug\Autenticazione.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Autenticazione\obj\Debug\Autenticazione.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Quote.Gestionale_Condomini.frmQuote">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABGAAIIAACCggBAAEECAQCACQCwAACADABQAIAACAQI=</HashCode>
+      <FileName>frmQuote.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quote.Gestionale_Condomini.MyDateTimePickerColumn">
+    <Position X="4.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>MyDateTimePickerColumn.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quote.Gestionale_Condomini.MyDateTimePickerCell">
+    <Position X="7.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAABAAAAAAAAAAAAAAAEAAAIAAAAAAAEAA=</HashCode>
+      <FileName>MyDateTimePickerColumn.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quote.Gestionale_Condomini.MyDateTimePickerEditingControl" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAABCAIAAIAAAAAAAAAAIAAAEAAAQAMAAUAAAAAIAAA=</HashCode>
+      <FileName>MyDateTimePickerColumn.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Quote.GrtQuote">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAQABAAQECAAEQBAAAGAAEALCAgCQCAAAAQBAAACAAA=</HashCode>
+      <FileName>GrtQuote.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quote.NewDataSet" Collapsed="true">
+    <Position X="3.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQQkQGgiAwAAAgpABgAAYQAAgAgC4ByBAAABUQEjRJA=</HashCode>
+      <FileName>NewDataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quote.My.MySettings">
+    <Position X="0.5" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Quote.My.Resources.Resources">
+    <Position X="2.5" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Quote.My.MySettingsProperty">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

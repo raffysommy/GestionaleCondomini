@@ -1,0 +1,36 @@
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\App.config
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\bolletta.dotx
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Gestionale Condomini.exe.config
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Gestionale Condomini.exe.manifest
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Gestionale Condomini.application
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Gestionale Condomini.exe
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Gestionale Condomini.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Gestionale Condomini.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Anagrafica.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Autenticazione.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Opzioni.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Quote.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Spese.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Anagrafica.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Anagrafica.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Autenticazione.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Autenticazione.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Opzioni.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Opzioni.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Quote.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Quote.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Spese.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\bin\Debug\Spese.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale Condomini.vbprojResolveAssemblyReference.cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale_Condomini.AboutBox1.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale_Condomini.LoginForm1.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale_Condomini.frmMain.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale_Condomini.LoginSetup.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale_Condomini.Resources.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale_Condomini.SplashScreen1.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale Condomini.vbproj.GenerateResource.Cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale Condomini.exe.manifest
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale Condomini.application
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale Condomini.exe
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale Condomini.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Gestionale Condomini\obj\x86\Debug\Gestionale Condomini.pdb

@@ -1,0 +1,15 @@
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\bin\Debug\Quote.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\bin\Debug\Quote.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\bin\Debug\Quote.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\bin\Debug\Autenticazione.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\bin\Debug\Autenticazione.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\bin\Debug\Autenticazione.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.vbprojResolveAssemblyReference.cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.Gestionale_Condomini.frmQuote.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.GrtQuote.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.Resources.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.vbproj.GenerateResource.Cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Quote\obj\Debug\Quote.g.resources

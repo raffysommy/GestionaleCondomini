@@ -1,0 +1,16 @@
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\bin\Debug\Opzioni.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\bin\Debug\Opzioni.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\bin\Debug\Opzioni.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\bin\Debug\Autenticazione.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\bin\Debug\Autenticazione.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\bin\Debug\Autenticazione.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.vbprojResolveAssemblyReference.cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.Gestionale_Condomini.frmAnno.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.Gestionale_Condomini.frmModoPagamento.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.Gestionale_Condomini.insAnno.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.Resources.resources
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.vbproj.GenerateResource.Cache
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.dll
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.xml
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.pdb
+C:\Users\Raffaele\Source\Workspaces\Gestionale Condominio\Gestionale Condomini\Opzioni\obj\Debug\Opzioni.ChkMillesimi.resources
